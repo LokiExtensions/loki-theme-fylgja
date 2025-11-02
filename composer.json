@@ -1,10 +1,10 @@
 {
-    "name": "loki-theme\/magento2-theme-fylgja",
+    "name": "loki-theme/magento2-theme-fylgja",
     "version": "0.0.1",
     "description": "Fylgja CSS instance of Loki Theme",
     "type": "magento2-theme",
     "require": {
-        "magento\/framework": "^103.0"
+        "magento/framework": "^103.0"
     },
     "license": [
         "OSL-3.0"
